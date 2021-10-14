@@ -1,0 +1,127 @@
+
+
+.nav-item{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.navbar-brand{
+    padding-left: 30px;
+    padding-right: 150px;
+}
+.maintxt {
+    position: relative;}
+
+
+.footer{
+    background-color: black;
+    display: flex;
+    padding: 100px;
+}
+
+#Big{
+    max-width: 100%;
+    padding: 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+.centered {
+
+    position: absolute;
+    justify-content: center;
+    top: 25vw;
+    align-items: center;
+    text-align: center;
+    font-size: 6vw;
+    color: white;}
+
+
+
+
+.flexbox {
+    display: flex;
+    padding-left: 200px;
+    padding-top: 36px;
+    }
+
+.shows{
+    display:flex;
+    width: auto; 
+    flex-direction: column;
+    padding-left: 112px;
+}
+
+.flexrow{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    width: auto;
+}
+.flexrowT{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-size: 20pt;
+}
+.readmore{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 200px;
+}
+
+input[type=button]{
+    background-color: rgb(255, 188, 4);
+    border-color: black;
+    color: white;
+    border-width: 1px;
+    width: 120px;
+    height: 56px;
+    font-size: 16pt;
+    
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.megaline{
+background-color: grey;
+height: 1px;
+}
+
+.weirddatebox{
+    display:flex;
+    justify-content: start;
+    
+    border-width: 1px;
+    border-color: grey;
+    width: auto;
+    margin-top: 36px;
+    border-style: solid;
+    margin-left: 200px;
+    margin-right: 130px;
+    padding-left: 40px;
+}
+
+.Titlefoot{
+    display: flex;
+    padding-left: 40px;
+    font-size: 26pt;
+    color: white;
+}
+
+.footrow{
+    display:flex;
+    font-size: 9pt;
+    color: #fff;
+    padding-left: 36pt;
+    padding-top: 30px;
+}
+
+.info{
+    display: flex;
+    width: auto;
+    flex-direction: column;
+    margin-right:100px;
+    margin-left: 80px;
+
+}
